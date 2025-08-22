@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Danh sách khách hàng";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Danh sách khách hàng</h1>
+    <ul style="list-style-type: none">
+        @foreach (var c in ViewBag.Customers)
+        {
+            <li>@c</li>
+        }
+    </ul>
+</div>
