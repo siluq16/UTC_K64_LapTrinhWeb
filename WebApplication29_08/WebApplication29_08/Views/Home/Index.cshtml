@@ -1,0 +1,18 @@
+﻿@model List<WebApplication29_08.Models.Product>;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="box-title">Sản phẩm mới nhất</div>
+<div class="product-list">
+    @foreach (var p in Model)
+    {
+        <div class="product">
+            <img src="@p.Image" alt="@p.Name" />
+            <p>@p.Name</p>
+        </div>
+    }
+</div>
+
+<div class="box-title">Sản phẩm hot</div>
+@await Component.InvokeAsync("HotProduct");

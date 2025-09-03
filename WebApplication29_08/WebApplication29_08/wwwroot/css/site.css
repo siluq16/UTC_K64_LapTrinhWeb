@@ -1,0 +1,152 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column; /* xếp theo cột: header - main - footer */
+    min-height: 100vh;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.navbar {
+    background: #222;
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+    .navbar h3 {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: #fff;
+        margin: 0;
+        margin-right: 20px;
+        padding: 20px 20px;
+    }
+
+    .navbar a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0;
+        margin-right: 20px;
+        font-weight: bold;
+        padding: 20px 20px;
+    }
+
+        .navbar .active {
+            background-color: black;
+        }
+
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+
+.container {
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+}
+
+.sidebar {
+    width: 20%;
+}
+
+    .sidebar h3 {
+        font-size: 16px;
+        background: #3498db;
+        color: #fff;
+        padding: 8px;
+        margin: 0;
+    }
+
+    .sidebar ul li {
+        padding: 8px;
+        border-bottom: 1px solid #eee;
+    }
+
+        .sidebar ul li:hover {
+            background: #f1f1f1;
+            cursor: pointer;
+        }
+
+    .sidebar .banner {
+        margin-top: 15px;
+        padding: 5px;
+        background: #fff;
+    }
+
+        .sidebar .banner img {
+            width: 100%;
+            height: auto;
+        }
+.container {
+    flex: 1;
+}
+
+.box-title {
+    background: #3498db;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.product-list + .box-title {
+    margin-top: 20px;
+}
+
+
+
+.product-list, .hot-products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px; 
+}
+
+.product {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+    .product:hover {
+        box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+    }
+
+    .product img {
+        width: 75%;
+        height: auto;
+    }
+
+    .product p {
+        margin-top: 8px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+footer {
+    margin-top: 30px;
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+    footer h3 {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    footer p {
+        text-align: justify
+    }
