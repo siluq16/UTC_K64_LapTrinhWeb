@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\adminlte.css" />
+    <Content Remove="wwwroot\css\adminlte.css.map" />
+    <Content Remove="wwwroot\css\adminlte.min.css" />
+    <Content Remove="wwwroot\css\adminlte.min.css.map" />
+    <Content Remove="wwwroot\css\adminlte.rtl.css" />
+    <Content Remove="wwwroot\css\adminlte.rtl.css.map" />
+    <Content Remove="wwwroot\css\adminlte.rtl.min.css" />
+    <Content Remove="wwwroot\css\adminlte.rtl.min.css.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\adminlte.css" />
+    <None Include="wwwroot\css\adminlte.css.map" />
+    <None Include="wwwroot\css\adminlte.min.css" />
+    <None Include="wwwroot\css\adminlte.min.css.map" />
+    <None Include="wwwroot\css\adminlte.rtl.css" />
+    <None Include="wwwroot\css\adminlte.rtl.css.map" />
+    <None Include="wwwroot\css\adminlte.rtl.min.css" />
+    <None Include="wwwroot\css\adminlte.rtl.min.css.map" />
+  </ItemGroup>
+
+</Project>
