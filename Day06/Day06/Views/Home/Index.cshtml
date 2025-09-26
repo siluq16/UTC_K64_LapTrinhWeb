@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Student>
+
+
+<h2>Danh sách sinh viên</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm sinh viên mới</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Mã SV</th>
+            <th>Họ tên</th>
+            <th>Email</th>
+            <th>Ngành học</th>
+            <th>Giới tính</th>
+            <th>Hệ</th>
+            <th>Ngày sinh</th>
+            <th>Điểm</th>
+            <th>Địa chỉ</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td>@s.Email</td>
+                    <td>@s.Branch</td>
+                    <td>@s.Gender</td>
+                    <td>@(s.IsRegular ? "Chính quy" : "Phi chính quy")</td>
+                    <td>@s.DateOfBirth.ToString("dd/MM/yyyy")</td>
+                    <td>@s.Diem</td>
+                    <td>@s.Address</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="9" class="text-center text-danger">Chưa có sinh viên nào</td>
+            </tr>
+        }
+    </tbody>
+</table>
