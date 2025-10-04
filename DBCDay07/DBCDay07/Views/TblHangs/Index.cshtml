@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DBCDay07.Models.TblHang>
+
+@{
+    ViewData["Title"] = "Danh sách hàng hóa";
+}
+
+<h1 class="mb-4">Danh sách hàng hóa</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">➕ Thêm hàng mới</a>
+</p>
+
+<table class="table table-bordered table-striped text-center align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.TenHang)</th>
+            <th>@Html.DisplayNameFor(model => model.SoLuong)</th>
+            <th>@Html.DisplayNameFor(model => model.DonGiaNhap)</th>
+            <th>@Html.DisplayNameFor(model => model.DonGiaBan)</th>
+            <th>@Html.DisplayNameFor(model => model.Anh)</th>
+            <th>@Html.DisplayNameFor(model => model.GhiChu)</th>
+            <th>@Html.DisplayNameFor(model => model.MaChatLieuNavigation)</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.TenHang</td>
+                <td>@item.SoLuong</td>
+                <td>@string.Format("{0:N0} đ", item.DonGiaNhap)</td>
+                <td>@string.Format("{0:N0} đ", item.DonGiaBan)</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.Anh))
+                    {
+                        <img src="~/images/Hang/@item.Anh" alt="Ảnh sản phẩm" class="img-thumbnail" style="max-width:100px; height:auto;" />
+                    }
+                    else
+                    {
+                        <span class="text-muted">Chưa có ảnh</span>
+                    }
+                </td>
+                <td>@item.GhiChu</td>
+                <td>@item.MaChatLieuNavigation?.MaChatLieu</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.MaHang">✏️ Sửa</a>
+                    <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@item.MaHang">📄 Chi tiết</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.MaHang">🗑️ Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
