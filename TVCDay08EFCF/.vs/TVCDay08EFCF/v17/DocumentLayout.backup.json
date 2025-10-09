@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|d:\\nam3\\ki1\\laptrinhweb\\tvcday08efcf\\tvcday08efcf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|solutionrelative:tvcday08efcf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|d:\\nam3\\ki1\\laptrinhweb\\tvcday08efcf\\tvcday08efcf\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|solutionrelative:tvcday08efcf\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|d:\\nam3\\ki1\\laptrinhweb\\tvcday08efcf\\tvcday08efcf\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|solutionrelative:tvcday08efcf\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|d:\\nam3\\ki1\\laptrinhweb\\tvcday08efcf\\tvcday08efcf\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|solutionrelative:tvcday08efcf\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|d:\\nam3\\ki1\\laptrinhweb\\tvcday08efcf\\tvcday08efcf\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|solutionrelative:tvcday08efcf\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|d:\\nam3\\ki1\\laptrinhweb\\tvcday08efcf\\tvcday08efcf\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|solutionrelative:tvcday08efcf\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|d:\\nam3\\ki1\\laptrinhweb\\tvcday08efcf\\tvcday08efcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F501BD-997F-4200-A2A7-7B253EED5713}|TVCDay08EFCF\\TVCDay08EFCF.csproj|solutionrelative:tvcday08efcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TVCDay08EFCF\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TVCDay08EFCF\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-09T14:30:34.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TVCDay08EFCF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TVCDay08EFCF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:29:22.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:26:48.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:26:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:25:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "TVCDay08EFCF\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:21:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Program.cs",
+              "RelativeDocumentMoniker": "TVCDay08EFCF\\Program.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\TVCDay08EFCF\\TVCDay08EFCF\\Program.cs",
+              "RelativeToolTip": "TVCDay08EFCF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:07:01.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
