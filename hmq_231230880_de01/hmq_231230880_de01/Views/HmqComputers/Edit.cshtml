@@ -1,0 +1,61 @@
+﻿@model hmq_231230880_de01.Models.HmqComputer
+
+@{
+    ViewData["Title"] = "Chỉnh sửa máy tính";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4 fw-bold text-primary">🖥️ Chỉnh sửa thông tin máy tính</h2>
+
+    <div class="card shadow-lg border-0 rounded-4 mx-auto" style="max-width: 600px;">
+        <div class="card-body">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="HmqComId" />
+
+                <div class="mb-3">
+                    <label asp-for="HmqComName" class="form-label fw-semibold">Tên máy tính</label>
+                    <input asp-for="HmqComName" class="form-control" placeholder="Nhập tên sản phẩm..." />
+                    <span asp-validation-for="HmqComName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="HmqComPrice" class="form-label fw-semibold">Giá (VNĐ)</label>
+                    <input asp-for="HmqComPrice" class="form-control" placeholder="Nhập giá..." />
+                    <span asp-validation-for="HmqComPrice" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="HmqComImage" class="form-label fw-semibold">Tên file ảnh</label>
+                    <input asp-for="HmqComImage" type="text" class="form-control" placeholder="Nhập tên file ảnh (vd: may1.jpg)" />
+                    <span asp-validation-for="HmqComImage" class="text-danger"></span>
+                </div>
+
+
+                <div class="mb-3">
+                    <label asp-for="HmqComStatus" class="form-label fw-semibold">Trạng thái</label>
+                    <select asp-for="HmqComStatus" class="form-select">
+                        <option value="true" selected="@(Model.HmqComStatus == true)">Còn hàng</option>
+                        <option value="false" selected="@(Model.HmqComStatus == false)">Hết hàng</option>
+                    </select>
+                    <span asp-validation-for="HmqComStatus" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <a asp-action="Index" class="btn btn-secondary px-4">
+                        <i class="bi bi-arrow-left-circle"></i> Quay lại
+                    </a>
+                    <button type="submit" class="btn btn-primary px-4">
+                        <i class="bi bi-save"></i> Lưu thay đổi
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

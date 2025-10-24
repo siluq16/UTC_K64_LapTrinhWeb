@@ -1,0 +1,49 @@
+/* _content/hmq_231230880_de01/Views/Shared/_hmqLayout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-qyrd0toce4] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-qyrd0toce4] {
+  color: #0077cc;
+}
+
+.btn-primary[b-qyrd0toce4] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-qyrd0toce4], .nav-pills .show > .nav-link[b-qyrd0toce4] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-qyrd0toce4] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-qyrd0toce4] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-qyrd0toce4] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-qyrd0toce4] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-qyrd0toce4] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

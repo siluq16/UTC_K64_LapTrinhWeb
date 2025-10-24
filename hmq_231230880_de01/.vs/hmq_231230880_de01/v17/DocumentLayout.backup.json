@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\views\\hmqcomputers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\views\\hmqcomputers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\views\\hmqcomputers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\views\\hmqcomputers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\views\\hmqcomputers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\views\\hmqcomputers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\controllers\\hmqcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\controllers\\hmqcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\models\\hoangmanhquan231230880de01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\models\\hoangmanhquan231230880de01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\views\\hmqcomputers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\views\\hmqcomputers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\views\\hmqcomputers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\views\\hmqcomputers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\models\\hmqcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\models\\hmqcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|d:\\nam3\\ki1\\laptrinhweb\\hmq_231230880_de01\\hmq_231230880_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{629A8A23-F77F-47A6-8808-67CC16B95EED}|hmq_231230880_de01\\hmq_231230880_de01.csproj|solutionrelative:hmq_231230880_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoangManhQuan231230880De01Context.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Models\\HoangManhQuan231230880De01Context.cs",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Models\\HoangManhQuan231230880De01Context.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Models\\HoangManhQuan231230880De01Context.cs",
+              "RelativeToolTip": "hmq_231230880_de01\\Models\\HoangManhQuan231230880De01Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:58:19.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HmqComputersController.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Controllers\\HmqComputersController.cs",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Controllers\\HmqComputersController.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Controllers\\HmqComputersController.cs",
+              "RelativeToolTip": "hmq_231230880_de01\\Controllers\\HmqComputersController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:52:31.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Views\\HmqComputers\\Delete.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Delete.cshtml",
+              "RelativeToolTip": "hmq_231230880_de01\\Views\\HmqComputers\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:50:28.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Create.cshtml",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Views\\HmqComputers\\Create.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Create.cshtml",
+              "RelativeToolTip": "hmq_231230880_de01\\Views\\HmqComputers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:48:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Details.cshtml",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Views\\HmqComputers\\Details.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Details.cshtml",
+              "RelativeToolTip": "hmq_231230880_de01\\Views\\HmqComputers\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:46:22.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Views\\HmqComputers\\Edit.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Edit.cshtml",
+              "RelativeToolTip": "hmq_231230880_de01\\Views\\HmqComputers\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:39:25.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Index.cshtml",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Views\\HmqComputers\\Index.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\HmqComputers\\Index.cshtml",
+              "RelativeToolTip": "hmq_231230880_de01\\Views\\HmqComputers\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:33:17.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "hmq_231230880_de01\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-24T01:32:41.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HmqComputer.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Models\\HmqComputer.cs",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Models\\HmqComputer.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Models\\HmqComputer.cs",
+              "RelativeToolTip": "hmq_231230880_de01\\Models\\HmqComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:10:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "hmq_231230880_de01\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:16:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\appsettings.json",
+              "RelativeDocumentMoniker": "hmq_231230880_de01\\appsettings.json",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\hmq_231230880_de01\\hmq_231230880_de01\\appsettings.json",
+              "RelativeToolTip": "hmq_231230880_de01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T01:05:29.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

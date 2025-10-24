@@ -1,0 +1,53 @@
+﻿@model IEnumerable<hmq_231230880_de01.Models.HmqComputer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center mb-4">Danh sách máy tính</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary"> + Thêm máy tính mới</a>
+</p>
+<table class="table table-bordered table-striped text-center align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HmqComName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HmqComPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HmqComImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HmqComStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HmqComName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HmqComPrice)
+            </td>
+            <td>
+                    <img src="~/images/@item.HmqComImage" alt="Ảnh sản phẩm" width="100" height="100" />
+            </td>
+            <td>
+                    @(item.HmqComStatus == true ? "Còn hàng" : "Hết hàng")
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.HmqComId" class="btn btn-warning">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.HmqComId" class="btn btn-info">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.HmqComId"class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

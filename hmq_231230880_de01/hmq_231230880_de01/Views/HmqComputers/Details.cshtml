@@ -1,0 +1,63 @@
+﻿@model hmq_231230880_de01.Models.HmqComputer
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center text-primary fw-bold mb-4">🖥️ Thông tin chi tiết máy tính</h2>
+
+    <div class="card shadow-lg border-0 rounded-4 mx-auto" style="max-width: 700px;">
+        <div class="row g-0">
+            <div class="col-md-5 text-center p-3 d-flex align-items-center justify-content-center">
+                @if (!string.IsNullOrEmpty(Model.HmqComImage))
+                {
+                    <img src="~/images/@Model.HmqComImage" alt="Ảnh sản phẩm"
+                         class="img-fluid rounded-3 shadow-sm"
+                         style="max-height: 250px; object-fit: contain;" />
+                }
+                else
+                {
+                    <div class="text-muted fst-italic">Chưa có ảnh</div>
+                }
+            </div>
+
+            <div class="col-md-7">
+                <div class="card-body">
+                    <h4 class="card-title text-dark fw-bold mb-3">@Model.HmqComName</h4>
+
+                    <dl class="row mb-0">
+                        <dt class="col-sm-4 text-muted">Giá bán:</dt>
+                        <dd class="col-sm-8 text-danger fw-semibold">
+                            @string.Format("{0:N0} VNĐ", Model.HmqComPrice)
+                        </dd>
+
+                        <dt class="col-sm-4 text-muted">Trạng thái:</dt>
+                        <dd class="col-sm-8">
+                            @if (Model.HmqComStatus == true)
+                            {
+                                <span class="badge bg-success px-3 py-2">Còn hàng</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-secondary px-3 py-2">Hết hàng</span>
+                            }
+                        </dd>
+
+                        <dt class="col-sm-4 text-muted">Mã sản phẩm:</dt>
+                        <dd class="col-sm-8">@Model.HmqComId</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-4">
+        <a asp-action="Edit" asp-route-id="@Model.HmqComId" class="btn btn-primary px-4 me-2">
+            <i class="bi bi-pencil-square"></i> Chỉnh sửa
+        </a>
+        <a asp-action="Index" class="btn btn-secondary px-4">
+            <i class="bi bi-arrow-left-circle"></i> Quay lại danh sách
+        </a>
+    </div>
+</div>
