@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\viewcomponents\\leftmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\viewcomponents\\leftmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\shared\\_header.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\shared\\_header.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\views\\shared\\_header.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\views\\shared\\_header.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|d:\\nam3\\ki1\\laptrinhweb\\quanlydanhsachsv\\quanlydanhsachsv\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5B489B-442D-4DE3-A235-39FDA0461745}|QuanLyDanhSachSV\\QuanLyDanhSachSV.csproj|solutionrelative:quanlydanhsachsv\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAQwM4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:01:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T11:59:32.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeftMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\ViewComponents\\LeftMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\ViewComponents\\LeftMenuViewComponent.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\ViewComponents\\LeftMenuViewComponent.cs",
+              "RelativeToolTip": "QuanLyDanhSachSV\\ViewComponents\\LeftMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:49:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\MenuItem.cs",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:48:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T02:20:13.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\appsettings.json",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\appsettings.json",
+              "RelativeToolTip": "QuanLyDanhSachSV\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T02:20:10.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T02:12:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T02:11:34.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T02:09:58.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Mylayout.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Mylayout.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Shared\\_Mylayout.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Mylayout.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Shared\\_Mylayout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T02:06:49.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:33:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:29:50.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:06:37.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:44:33.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Models\\Student.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\Student.cs",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:31:40.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Models\\Branch.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\Branch.cs",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:31:08.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "QuanLyDanhSachSV\\Models\\Gender.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QuanLyDanhSachSV\\QuanLyDanhSachSV\\Models\\Gender.cs",
+              "RelativeToolTip": "QuanLyDanhSachSV\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:30:35.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
