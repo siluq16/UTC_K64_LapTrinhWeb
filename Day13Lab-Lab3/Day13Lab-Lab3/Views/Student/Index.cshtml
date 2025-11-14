@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Student>
+
+<div class="container-fluid m-3">
+    <a asp-controller="Student" asp-action="Create" asp-route-area="Admin" class="btn btn-primary mb-3">Create Student</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Ảnh</th>
+                <th>Mã</th>
+                <th>Họ Tên</th>
+                <th>Ngày sinh</th>
+                <th>Ngành</th>
+                <th>Giới tính</th>
+                <th>Hệ ĐT</th>
+                <th>Địa chỉ</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                string branchName = student.Branch switch
+                {
+                    Branch.IT => "Công nghệ thông tin",
+                    Branch.BE => "Kinh tế",
+                    Branch.CE => "Công trình",
+                    Branch.EE => "Điện, Điện tử",
+                    _ => "Khác"
+                };
+
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrEmpty(student.ImagePath))
+                        {
+                            <img src="@student.ImagePath" alt="Ảnh sinh viên" width="80" height="80" class="rounded" />
+                        }
+                        else
+                        {
+                            <span>@student.ImagePath</span>
+                        }
+                    </td>
+
+                    <td>@student.Id</td>
+                    <td>@student.Name</td>
+                    <td>@student.DateOfBorth.ToString("dd/MM/yyyy")</td>
+                    <td>@branchName</td>
+                    <td>@(student.Gender == Gender.Male ? "Nam" : "Nữ")</td>
+                    <td>@(student.IsRegular ? "Chính quy" : "Phi chính quy")</td>
+                    <td>@student.Address</td>
+                    <td>@student.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section Scripts{
+    <script>
+        var table =  document.querySelector("table");
+        table.onclick = function onTableClick() {
+            table.style = "background-color: yellow;"
+        }
+    </script>
+}
