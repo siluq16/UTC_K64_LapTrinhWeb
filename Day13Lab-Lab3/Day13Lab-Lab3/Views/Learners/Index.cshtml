@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Day13Lab_Lab3.Models.Learner>
+
+@{
+    ViewData["Title"] = "Learners";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="fw-bold">Danh sách Learner</h2>
+        @await Component.InvokeAsync("Major")
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Thêm mới
+        </a>
+    </div>
+
+    <div id="content">
+        <table class="table table-bordered table-hover shadow-sm">
+            <thead class="table-dark">
+                <tr>
+                    <th>@Html.DisplayNameFor(m => m.LastName)</th>
+                    <th>@Html.DisplayNameFor(m => m.FirstMidName)</th>
+                    <th>@Html.DisplayNameFor(m => m.EnrollmentDate)</th>
+                    <th>Major</th>
+                    <th style="width:180px">Thao tác</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.LastName</td>
+                        <td>@item.FirstMidName</td>
+                        <td>@item.EnrollmentDate.ToString("yyyy-MM-dd")</td>
+                        <td>@item.Major?.MajorName</td>
+
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.LearnerId" class="btn btn-sm btn-warning">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+
+                            <a asp-action="Details" asp-route-id="@item.LearnerId" class="btn btn-sm btn-info text-white">
+                                <i class="bi bi-info-circle"></i> Details
+                            </a>
+
+                            <a asp-action="Delete" asp-route-id="@item.LearnerId" class="btn btn-sm btn-danger">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function() {
+            $(".learner-link").click(function(e) {
+                e.preventDefault(); 
+                var id = $(this).data("id");
+                console.log("Selected Major ID: " + id);
+                $.ajax({
+                    url: '@Url.Action("LearnerByMajorId")',
+                    data: { mid: id },
+                    success: function(response) {
+                        $("div#content").html(response);
+                    }
+                });
+            });
+        });
+    </script>
+}

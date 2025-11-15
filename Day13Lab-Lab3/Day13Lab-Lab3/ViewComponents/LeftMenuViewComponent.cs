@@ -11,7 +11,7 @@ namespace Day13Lab_Lab3.ViewComponents
             {
                 new MenuItem { Id = 1, Name = "Home", Link = Url.Action("Index", "Home") },
                 new MenuItem { Id = 2, Name = "Sinh viên", Link = "/Admin/Student/List" },
-                new MenuItem { Id = 3, Name = "Privacy", Link = Url.Action("Privacy", "Home") },
+                new MenuItem { Id = 3, Name = "Learner", Link = Url.Action("Index", "Learners") },
             };
 
             return View(menuItems); 

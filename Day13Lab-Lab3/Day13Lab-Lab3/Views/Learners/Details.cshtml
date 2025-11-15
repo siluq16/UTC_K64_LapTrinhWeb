@@ -1,0 +1,50 @@
+﻿@model Day13Lab_Lab3.Models.Learner
+
+@{
+    ViewData["Title"] = "Learner Details";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+
+            <div class="card shadow-sm">
+                <div class="card-header bg-info text-white">
+                    <h4 class="mb-0">Thông tin Learner</h4>
+                </div>
+
+                <div class="card-body">
+
+                    <dl class="row mb-0">
+                        <dt class="col-sm-4 fw-bold">Họ</dt>
+                        <dd class="col-sm-8">@Model.LastName</dd>
+
+                        <dt class="col-sm-4 fw-bold">Tên</dt>
+                        <dd class="col-sm-8">@Model.FirstMidName</dd>
+
+                        <dt class="col-sm-4 fw-bold">Ngày nhập học</dt>
+                        <dd class="col-sm-8">@Model.EnrollmentDate.ToString("dd/MM/yyyy")</dd>
+
+                        <dt class="col-sm-4 fw-bold">Ngành học</dt>
+                        <dd class="col-sm-8">
+                            @Model.Major?.MajorName
+                        </dd>
+                    </dl>
+
+                </div>
+
+                <div class="card-footer d-flex justify-content-between">
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left-circle"></i> Quay lại
+                    </a>
+
+                    <a asp-action="Edit" asp-route-id="@Model.LearnerId" class="btn btn-info text-white">
+                        <i class="bi bi-pencil-square"></i> Chỉnh sửa
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
