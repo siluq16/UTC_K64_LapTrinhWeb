@@ -12,6 +12,7 @@ namespace Day13Lab_Lab3.Controllers
     public class LearnersController : Controller
     {
         private readonly SchoolDbContext _context;
+        private int pageSize = 3;
 
         public LearnersController(SchoolDbContext context)
         {
@@ -25,22 +26,38 @@ namespace Day13Lab_Lab3.Controllers
         //    return View(await schoolDbContext.ToListAsync());
         //}
 
-        public IActionResult Index(int? mid)
+        public IActionResult Index(int? mid, string? keyword, int page = 1)
         {
-            if (mid == null)
+            IQueryable<Learner> learners = _context.Learners.Include(l => l.Major);
+
+            if (mid != null)
             {
-                var learners = _context.Learners.Include(l => l.Major).ToList();
-                return View(learners);
+                learners = learners.Where(l => l.MajorId == mid);
+                ViewBag.mid = mid;
             }
-            else
+
+            if (!string.IsNullOrEmpty(keyword))
             {
-                var learners = _context.Learners
-                    .Where(l => l.MajorId == mid)
-                    .Include(l => l.Major)
-                    .ToList();
-                return View(learners);
+                learners = learners.Where(l => l.FirstMidName.Contains(keyword)
+                                            || l.LastName.Contains(keyword));
+                ViewBag.keyword = keyword;
             }
+
+            int total = learners.Count();
+            int totalPages = (int)Math.Ceiling(total / (double)pageSize);
+
+            var data = learners
+                .OrderBy(l => l.LearnerId)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            ViewBag.TotalPages = totalPages;
+            ViewBag.CurrentPage = page;
+
+            return View(data);
         }
+
 
         public IActionResult LearnerByMajorId(int mid)
         {
@@ -49,6 +66,39 @@ namespace Day13Lab_Lab3.Controllers
                 .Include(m => m.Major).ToList();
             return PartialView("LearnerTable", learners);
         }
+
+        public IActionResult LearnerFilter(int? mid, string? keyword, int page = 1)
+        {
+            IQueryable<Learner> learners = _context.Learners.Include(l => l.Major);
+
+            if (mid != null)
+            {
+                learners = learners.Where(l => l.MajorId == mid);
+                ViewBag.mid = mid;
+            }
+
+            if (!string.IsNullOrEmpty(keyword))
+            {
+                learners = learners.Where(l => l.FirstMidName.Contains(keyword)
+                                            || l.LastName.Contains(keyword));
+                ViewBag.keyword = keyword;
+            }
+
+            int total = learners.Count();
+            int totalPages = (int)Math.Ceiling(total / (double)pageSize);
+
+            var data = learners
+                .OrderBy(l => l.LearnerId)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            ViewBag.TotalPages = totalPages;
+            ViewBag.CurrentPage = page;
+
+            return PartialView("LearnerTable", data);
+        }
+
 
         // GET: Learners/Details/5
         public async Task<IActionResult> Details(int? id)

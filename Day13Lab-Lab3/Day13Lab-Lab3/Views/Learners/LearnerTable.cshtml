@@ -36,3 +36,16 @@
         }
     </tbody>
 </table>
+<ul class="pagination">
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+            <a class="page-link"
+               data-page="@i"
+               data-mid="@ViewBag.mid"
+               data-keyword="@ViewBag.keyword">
+                @i
+            </a>
+        </li>
+    }
+</ul>
