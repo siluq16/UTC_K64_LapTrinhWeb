@@ -1,0 +1,11 @@
+﻿@model IEnumerable<QLBH.Models.LoaiHang>
+<div class="menu">
+	<ul>
+		<li class="active"><a asp-controller="HangHoas" asp-action="Index" >Hoàng Mạnh Quân</a></li>
+		@foreach (var loaihang in Model)
+		{
+			<li><a class="ajax-link" data-maLoai="@loaihang.MaLoai">@loaihang.TenLoai</a></li>
+        }
+		<div class="clear"></div>
+	</ul>
+</div>

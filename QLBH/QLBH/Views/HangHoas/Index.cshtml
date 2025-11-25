@@ -1,0 +1,65 @@
+﻿@model IEnumerable<QLBH.Models.HangHoa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p class="mb-2">
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+<!-- Begin New Product -->
+<div class="content_top">
+	<div class="heading">
+		<h3>Hoàng Mạnh Quân</h3>
+	</div>
+	<div class="see">
+		<p><a href="#">See all Products</a></p>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="section group" id="product-content">
+    <partial name="_ProductPartialView" model="Model" />
+</div>
+
+<!-- End New Product -->
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			var currentMaLoai = null;
+			$('.ajax-link').click(function (e) {
+				e.preventDefault();
+				currentMaLoai = $(this).data('maloai');
+				$.ajax({
+					url: '/HangHoas/GetProductByCategoryID',
+					type: 'GET',
+					data: { maLoai: currentMaLoai },
+					success: function (result) {
+						$('#product-content').html(result);
+                        $('.ajax-link').removeClass('active');
+                        $(e.target).addClass('active');
+					},
+					error: function (xhr, status, error) {
+						console.error('Error fetching products:', error);
+					}
+				});
+			});
+			$('#search-button').click(function () {
+				var query = $(this).siblings('input[type="text"]').val();
+                var maLoai = $('.ajax-link').data('maloai');
+				$.ajax({
+					url: '/HangHoas/FilterProduct',
+					type: 'GET',
+					data: { maLoai: currentMaLoai, keyWord: query },
+					success: function (result) {
+						$('#product-content').html(result);
+					},
+					error: function (xhr, status, error) {
+						console.error('Error fetching search results:', error);
+					}
+				});
+			});
+        });
+	</script>
+}

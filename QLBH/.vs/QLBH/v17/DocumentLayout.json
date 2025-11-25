@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\views\\shared\\components\\loaihangmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\views\\shared\\components\\loaihangmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\views\\hanghoas\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\views\\hanghoas\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\views\\shared\\hoangmanhquan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\views\\shared\\hoangmanhquan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|d:\\nam3\\ki1\\laptrinhweb\\qlbh\\qlbh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2A758E8-A8D5-496A-BDC2-AF1841ED834B}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLBH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLBH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T03:40:13.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoangManhQuan_Header.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\Shared\\HoangManhQuan_Header.cshtml",
+              "RelativeDocumentMoniker": "QLBH\\Views\\Shared\\HoangManhQuan_Header.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\Shared\\HoangManhQuan_Header.cshtml",
+              "RelativeToolTip": "QLBH\\Views\\Shared\\HoangManhQuan_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T03:29:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\HangHoas\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "QLBH\\Views\\HangHoas\\_ProductPartialView.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\HangHoas\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "QLBH\\Views\\HangHoas\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T03:20:55.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "QLBH\\Models\\HangHoa.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Models\\HangHoa.cs",
+              "RelativeToolTip": "QLBH\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:53:10.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\HangHoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLBH\\Views\\HangHoas\\Create.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\HangHoas\\Create.cshtml",
+              "RelativeToolTip": "QLBH\\Views\\HangHoas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T09:50:34.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBH\\Views\\HangHoas\\Index.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "QLBH\\Views\\HangHoas\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T09:32:05.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "QLBH\\Controllers\\HangHoasController.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "QLBH\\Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:30:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "QLBH\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "RelativeToolTip": "QLBH\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T09:24:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Program.cs",
+              "RelativeDocumentMoniker": "QLBH\\Program.cs",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\Program.cs",
+              "RelativeToolTip": "QLBH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:19:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\appsettings.json",
+              "RelativeDocumentMoniker": "QLBH\\appsettings.json",
+              "ToolTip": "D:\\nam3\\ki1\\LapTrinhWeb\\QLBH\\QLBH\\appsettings.json",
+              "RelativeToolTip": "QLBH\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-23T09:18:44.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
